@@ -68,7 +68,7 @@ Tugas Modul 2
             listBox.Items.Refresh();
         }
     }
-        //untuk menampilkan data yang telah dimasukkan sebelumnya
+        //berfungsi untuk menampilkan data yang telah diinputkan tadi
          
     
         private List<Item> listItem;
@@ -91,6 +91,6 @@ Tugas Modul 2
             return listItem;
         }
     
- // untuk melakukan perhitungan pada data yang telah dimasukkan sebelumnya
+ // untuk melakukan perhitungan pada data yang telah diinputkan tadi
         
         
